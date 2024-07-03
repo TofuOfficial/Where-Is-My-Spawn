@@ -1,4 +1,4 @@
-<img src="src/main/resources/assets/where-is-my-spawn/icon.png" width="224">
+<img src="src/main/resources/assets/where-is-my-spawn/icon-readme.png" width="160" alt="">
 
 # Where Is My Spawn
 
