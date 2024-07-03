@@ -3,7 +3,7 @@
 	"id": "where-is-my-spawn",
 	"version": "${version}",
 	"name": "Where is My Spawn",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Easy commands, better spawn",
 	"authors": [
 		"Tofu"
 	],
