@@ -1,0 +1,6 @@
+{
+  "chat.coordinates": "%s, %s, %s",
+  "chat.coordinates.tooltip": "Click to teleport to spawn point",
+  "commands.respawn.success": "Your last known respawn-point is set at %s (%s blocks away)",
+  "commands.spawn.success": "Your spawn-point is set at %s (%s blocks away)"
+}
