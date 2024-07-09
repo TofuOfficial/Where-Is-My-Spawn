@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "where-is-my-spawn",
+	"version": "${version}",
+	"name": "Where Is My Spawn",
+	"description": "Commands to make dealing with spawn easy",
+	"authors": [
+		"Tofu"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/TofuOfficial/Where-Is-My-Spawn"
+	},
+	"license": "MIT",
+	"icon": "assets/where-is-my-spawn/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"tofu.mods.WhereIsMySpawn"
+		]
+	},
+	"mixins": [
+		"where-is-my-spawn.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "1.16.x",
+		"java": ">=8",
+		"fabric": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
