@@ -2,5 +2,9 @@
   "chat.coordinates": "%s, %s, %s",
   "chat.coordinates.tooltip": "Click to teleport to spawn point",
   "commands.respawn.success": "Your last known respawn-point is set at %s (%s blocks away)",
-  "commands.spawn.success": "Your spawn-point is set at %s (%s blocks away)"
+  "commands.respawn.set.success": "Your respawn-point was set to %s, %s, %s [%s]",
+  "commands.respawn.set.failure.not_overworld": "Can only set the spawn for overworld! (try getting back to the overworld)",
+  "commands.worldspawn.success": "Your worldspawn point is set at %s (%s blocks away)",
+  "commands.worldspawn.set.success": "World spawn point was set to %s, %s, %s (%s)",
+  "commands.worldspawn.set.failure.not_overworld": "Can only set the world spawn for overworld! (try getting back to the overworld)"
 }
